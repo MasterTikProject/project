@@ -1,0 +1,43 @@
+.required:after {
+    content: "*";
+    padding-left:1%;
+	color:red;
+	margin-left:3px;
+}
+
+.form-control{
+    width:97%;
+    float:left;
+}
+
+.printo {
+	float: right;
+	
+	
+}
+
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	
+	
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+.pagination {
+	position:center;
+	
+	
+}
